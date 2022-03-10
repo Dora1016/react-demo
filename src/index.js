@@ -1,10 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-console.log(React)
-console.log(ReactDOM)
-console.log(React.createElement)
-console.log(ReactDOM.render)
 
 let n = 0
 const App = () =>
